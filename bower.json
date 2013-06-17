@@ -1,6 +1,6 @@
 {
     "name": "normalize-stylus",
-    "version": "2.1.2",
+    "version": "1.0.0",
     "main": "normalize.styl",
     "author": [ "Nicolas Gallagher", "Jonathan Neal", "Mathias Brouilly" ]
 }
