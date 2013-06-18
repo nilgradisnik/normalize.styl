@@ -44,4 +44,4 @@ __v1__ _(includes legacy browser support)_
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
 
-Stylus port is a project by [Mathias Brouilly](https://github.com/bymathias "Mathias Brouilly).
+Stylus port is a project by [Mathias Brouilly](https://github.com/bymathias).
