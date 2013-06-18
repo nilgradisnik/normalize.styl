@@ -235,8 +235,9 @@ pre
  * Set consistent quote types.
  */
 
-q
-  quotes: "\201C" "\201D" "\2018" "\2019"
+unless legacy-browser-support
+  q
+    quotes: "\201C" "\201D" "\2018" "\2019"
 
 /**
  * 1. Address CSS quotes not supported in IE 6/7.
