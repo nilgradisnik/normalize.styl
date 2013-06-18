@@ -1,5 +1,10 @@
-# [Stylus](http://learnboost.github.io/stylus/ "Stylus") version of [Normalize](http://necolas.github.io/normalize.css/ "Normalize"). 
+# [Stylus](http://learnboost.github.io/stylus/ "Stylus") version of [Normalize.css](http://necolas.github.io/normalize.css/ "Normalize").
 
+
+## Get started
+
+* Clone the repo `git clone https://github.com/bymathias/normalize-stylus`
+* or [download the latest version](https://github.com/bymathias/normalize-stylus/archive/master.zip "Download ZIP") 
 
 ## How to use it
 
@@ -26,7 +31,7 @@ __v2__
 * Opera 12+
 * Internet Explorer 8+
 
-__v1__ (includes legacy browser support)
+__v1__ _(includes legacy browser support)_
 * Google Chrome
 * Mozilla Firefox 3+
 * Apple Safari 4+
@@ -39,4 +44,4 @@ __v1__ (includes legacy browser support)
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
 
-Stylus port is a project by [Mathias Brouilly](https://github.com/bymathias "Mathias Brouilly") 
+Stylus port is a project by [Mathias Brouilly](https://github.com/bymathias "Mathias Brouilly).
