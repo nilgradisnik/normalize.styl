@@ -2,5 +2,10 @@
     "name": "normalize-stylus",
     "version": "2.1.2",
     "main": "normalize.styl",
-    "author": [ "Nicolas Gallagher", "Jonathan Neal", "Mathias Brouilly" ]
+    "author": [ "Nicolas Gallagher", "Jonathan Neal", "Mathias Brouilly" ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ]
 }
