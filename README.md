@@ -3,8 +3,9 @@
 
 ## Get started
 
-* Clone the repo `git clone https://github.com/bymathias/normalize-stylus`
-* or [download the latest version](https://github.com/bymathias/normalize-stylus/archive/master.zip "Download ZIP") 
+* Clone the repo `git clone https://github.com/bymathias/normalize.styl`
+* or install with [Bower](http://bower.io/ "Bower") `bower install --save normalize.styl`
+* or [download the latest version](https://github.com/bymathias/normalize.styl/archive/master.zip "Download ZIP") 
 
 ## How to use it
 
